@@ -8,7 +8,7 @@ const Navigation = () => {
     <header className="border-b py-5">
       <div className="text-center">
         <Link href="/" className="font-bold text-xl cursor-pointer">
-          iwase koji専用DB
+          Koji Iwase専用DB
         </Link>
       </div>
     </header>
